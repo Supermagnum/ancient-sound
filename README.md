@@ -21,6 +21,26 @@ Everything should be put in their respective folder.
 
 Time range for the instruments must be 300th to 1300th century.
 
+Missing:
+Sami drum (frame Drum)
+
+bukkehorn (ram/goat's horn)
+
+birch trumpet(neverlur)
+
+Jorvik Pan flute
+
+willow flute/sallow flute
+Spilåpipa
+
+näverlapp ("birch bark patch")
+
+Falster Pipe
+
+Juhikko/tagglharpe ( sample of only one string at a time!)
+
+Brummer/"Bull roarer" (yes, they did have these here too)
+
 Licensed under 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
