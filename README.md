@@ -1,13 +1,9 @@
 # ancient-sound
-This is a collection of samples of ancient european instruments.
-Time range 300 to 1300th century.
-The instrument notes has been separated as one file per note, in their respective folder.
-Those notes are also the spesific intruments tonal range, in some instances it is possible to play half notes if half of the finger hole is covered.
+This is a collection of samples of ancient European instruments. Time range 300 to 1300th century. The instrument notes has been separated as one file per note, in their respective folder. Those notes are also the specific instruments tonal range, in some instances it is possible to play half notes if half of the finger hole is covered.
 
 The instruments are:
 
-A cow-horn that is blown like a trompet, it has holes in it so it can be played like a flute. It's quite ancient and was used up to the 1500's.
-Just one sample as I am a HORRIBLE player, it has a lot more tonal range.
+A cow-horn that is blown like a trumpet, it has holes in it so it can be played like a flute. It's quite ancient and was used up to the 1500's. Just one sample as I am a HORRIBLE player, it has a lot more tonal range.
 
 A flute made of sheep bone.
 
@@ -19,10 +15,8 @@ A iron age flute.
 
 A staff with rings on, these rattles when the wooden staff is struck in to the ground (rattlestaff).
 
-Additions are welcome, but they have to be as good quality as possible,
-tones separated in their own folder with the instruments name.
-raw file must be included.
+Additions are welcome, but they have to be as good quality as possible, tones separated in their own folder with the instruments name. raw file must be included.
 
 Everything should be put in their respective folder.
 
-licenced under Public Domain
+Licensed under Public Domain
