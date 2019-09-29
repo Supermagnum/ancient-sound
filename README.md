@@ -1,5 +1,5 @@
 # ancient-sound
-This is a collection of samples of ancient European instruments. Time range 300 to 1300th century. The instrument notes has been separated as one file per note, in their respective folder. Those notes are also the specific instruments tonal range, in some instances it is possible to play half notes if half of the finger hole is covered.
+This is a collection of samples of ancient European instruments.  The instrument notes has been separated as one file per note, in their respective folder. Those notes are also the specific instruments tonal range, in some instances it is possible to play half notes if half of the finger hole is covered.
 
 The instruments are:
 
@@ -18,6 +18,8 @@ A staff with rings on, these rattles when the wooden staff is struck in to the g
 Additions are welcome, but they have to be as good quality as possible, tones separated in their own folder with the instruments name. The raw file must be included.
 
 Everything should be put in their respective folder.
+
+Time range for the instruments must be 300th to 1300th century.
 
 Licensed under 
 GNU GENERAL PUBLIC LICENSE
