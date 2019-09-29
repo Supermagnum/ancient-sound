@@ -15,8 +15,10 @@ A iron age flute.
 
 A staff with rings on, these rattles when the wooden staff is struck in to the ground (rattlestaff).
 
-Additions are welcome, but they have to be as good quality as possible, tones separated in their own folder with the instruments name. raw file must be included.
+Additions are welcome, but they have to be as good quality as possible, tones separated in their own folder with the instruments name. The raw file must be included.
 
 Everything should be put in their respective folder.
 
-Licensed under Public Domain
+Licensed under 
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
