@@ -9,6 +9,8 @@ A flute made of sheep bone.
 
 A iron age lyre.
 
+A bronze age lure ( included because that these was also used during the iron age)
+
 A Buzzing bone ( bone with hole threaded on an string, rotated with bow or similar ).
 
 A iron age flute.
@@ -48,6 +50,9 @@ Falster Pipe
 Juhikko/tagglharpe ( sample of only one string at a time!)
 
 Brummer/"Bull roarer" (yes, they did have these here too)
+
+Additional instruments that I am unaware of can be added,if they fit the time period.
+
 
 Licensed under 
 GNU GENERAL PUBLIC LICENSE
