@@ -9,7 +9,7 @@ A flute made of sheep bone.
 
 A iron age lyre.
 
-A bronze age lure ( included because that these was also used during the iron age)
+A bronze age lure ( included because that these was also used during the iron age).
 
 A Buzzing bone ( bone with hole threaded on an string, rotated with bow or similar ).
 
@@ -41,6 +41,7 @@ birch trumpet(neverlur)
 Jorvik Pan flute
 
 willow flute/sallow flute
+
 Spilåpipa
 
 näverlapp ("birch bark patch")
