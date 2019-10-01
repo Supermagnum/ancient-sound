@@ -15,11 +15,19 @@ A iron age flute.
 
 A staff with rings on, these rattles when the wooden staff is struck in to the ground (rattlestaff).
 
-Additions are welcome, but they have to be as good quality as possible, tones separated in their own folder with the instruments name. The raw file must be included.
-
-Everything should be put in their respective folder.
-
 Time range for the instruments must be 300th to 1300th century.
+
+How to contribute:
+Record the instruments entire tonal range, starting from the lowest note to the top note.
+Split the recording in to one sound file per note,
+the format of the name should be xx-name-of-instrument. 
+Lossless audio format is preferred.
+
+The files should be put in a folder named with the instruments name,this must be put in the instruments folder.
+Also,include the original sound file,that goes into the raw-files folder.
+
+If the instrument is a percussion instrument, put it in the rythmic folder.
+
 
 Missing:
 Sami drum (frame Drum)
