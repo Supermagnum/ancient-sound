@@ -44,7 +44,7 @@ willow flute/sallow flute
 
 Spilåpipa
 
-näverlapp ("birch bark patch")
+näverlapp ("birch bark patch" aka lit. piece of birch bark)
 
 Falster Pipe
 
