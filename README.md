@@ -24,6 +24,8 @@ Record the instruments entire tonal range, starting from the lowest note to the 
 Split the recording in to one sound file per note,
 the format of the name should be xx-name-of-instrument. 
 Lossless audio format is preferred.
+The instruments lowest note should be 01-name-of-instrument,
+and the progressive tones recorded in increasing values like 2 for tone number 2 and so on.
 
 The files should be put in a folder named with the instruments name,this must be put in the instruments folder.
 Also,include the original sound file,that goes into the raw-files folder.
